@@ -17,6 +17,7 @@ This product asset updater is an open-source project for DYOPATH.
 4. Follow the First Time Installation instructions.
 
 :::INSTALL TROUBLESHOOTING:::
+
 Q. What if the install is blocked by an admin?
 A. You can also use the installer titled "Fujifilm Asset Update" (the icon is a white box with a green play icon). 
 
