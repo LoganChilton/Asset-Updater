@@ -26,3 +26,9 @@ A. You can also use the installer titled "Fujifilm Asset Update" (the icon is a 
 Q. Using launcher instead of installing.
 
 A. You can also use the application launcher instead of downloading. However, the installed files will need to stay wherever they are (such as keeping them on the desktop.) A shortcut can be created to the application file, but you can't move the executable!
+
+
+Q. What if I get an error that says "Token Expired"?
+
+A. Go to this location on your computer in the File Explorer: C:\Documents\Fujifilm Asset Update
+   Then, delete the folder "token.json" and try again.
